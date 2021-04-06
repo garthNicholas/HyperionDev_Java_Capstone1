@@ -33,8 +33,9 @@ contractor for the project.
 ● The name, telephone number, email address and physical address of the
 customer for the project.
 
-**
-Poised wants to be able to use your program to do the following:**
+
+**Poised wants to be able to use your program to do the following:**
+
 
 ● Capture information about new projects. If a project name is not provided
 when the information is captured, name the project using the surname of
@@ -50,14 +51,14 @@ stakeholders.
 ● Finalise existing projects. When a project is finalised, the following should
 happen:
 
-○ An invoice should be generated for the client. This invoice should
+- An invoice should be generated for the client. This invoice should
 contain the customer’s contact details and the total amount that the
 customer must still pay. This amount is calculated by subtracting the
 total amount paid to date from the total fee for the project. If the
 customer has already paid the full fee, an invoice should not be
 generated.
 
-○ The project should be marked as “finalised” and the completion date
+- The project should be marked as “finalised” and the completion date
 should be added. All the information about the project should be
 added to a text file called CompletedProject.txt .
 
