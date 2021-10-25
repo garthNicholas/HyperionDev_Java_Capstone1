@@ -1,5 +1,3 @@
-**Java Capstone 1:**
-
 You are asked to create a project management system for a small structural
 engineering firm called “Poised”. Poised does the engineering needed to ensure
 the structural integrity of various buildings. They want you to create a Java
@@ -11,8 +9,7 @@ Poised stores the following information for each project that they work on:
 
 ● Project name.
 
-● What type of building is being designed? E.g. House, apartment block or
-store, etc.
+● What type of building is being designed? E.g. House, apartment block or store, etc.
 
 ● The physical address for the project.
 
@@ -34,9 +31,7 @@ contractor for the project.
 customer for the project.
 
 
-
 **Poised wants to be able to use your program to do the following:**
-
 
 
 ● Capture information about new projects. If a project name is not provided
